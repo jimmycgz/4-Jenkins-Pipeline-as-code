@@ -1,5 +1,5 @@
 # Jenkins-Pipeline-as-code
-#Borrowed code from below repo
+#The original code was borrowed from below repo
 https://github.com/harniman/mobile-deposit-api
 
 # Steps to build Pipeline as Code in Jenkins
