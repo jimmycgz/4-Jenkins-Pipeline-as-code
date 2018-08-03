@@ -1,7 +1,8 @@
 # Jenkins-Pipeline-as-code
-# Borrowed code from below repo
+#Borrowed code from below repo
 https://github.com/harniman/mobile-deposit-api
 
+# Steps to build Pipeline as Code in Jenkins
 Install Docker pluin to Jenkins
 Build Java Jar package
 Unit test, Sonar test
